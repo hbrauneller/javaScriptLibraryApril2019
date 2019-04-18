@@ -1,0 +1,68 @@
+body{
+    background-color: #7FC0FF;
+  }
+  
+  #classExercise{
+    position: static;
+    top: 10;
+    left: 10;
+    width: 1500px;
+    height: 1500px;
+    background-color: #7FC0FF;
+    border: 5px solid #6B7F92;
+
+  }
+  
+  .helps {
+    width: 989px;
+    height: 556px;
+    text-align: left;
+    font-size: 30px;
+    padding: 5px 5px 5px 5px;
+    margin: 10px;
+    border: 5px solid #383B3F;
+  }
+
+  .challenges {
+    width: 989px;
+    height: 556px;
+    text-align: left;
+    font-size: 30px;
+    padding: 5px 5px 5px 5px;
+    margin: 10px;
+    border: 5px solid #383B3F;   
+  }
+
+  .parallax {
+    background-image: url(./assets/ocean);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    scroll-behavior: smooth 
+  }
+
+  .parallax1 {
+    background-image: url(./assets/ocean2);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    scroll-behavior: smooth
+  }
+
+  .parallax3 {
+    background-image: url(./assets/ocean3);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    scroll-behavior: smooth
+  }
+  
