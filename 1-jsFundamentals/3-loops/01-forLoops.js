@@ -48,3 +48,15 @@ let increment = 3;
 for (let i = start; i <= stop; i = i + increment){
     console.log(i);
 }
+
+
+function firstFunction(func){
+    for (let func =0; func <= 10; variable)
+       console.log(func); 
+   }
+   
+   function secondFunction(variable){
+     console.log(func + 2);
+   }
+   
+   console.log(firstFunction(func));

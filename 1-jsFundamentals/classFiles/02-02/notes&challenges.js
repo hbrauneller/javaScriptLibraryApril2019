@@ -19,10 +19,10 @@ for (let i = 0; i < arr.length; i++){
 
 let holly = ['string', true, [1, 2, 2], {name: 'Holly', number: 2,}]
 
-console.log(holly[0]);
-console.log(holly[1]);
-console.log(holly[2]);
-console.log(holly[3]);
+// console.log(holly[0]);
+// console.log(holly[1]);
+// console.log(holly[2]);
+// console.log(holly[3]);
 
 for (item of holly){
     console.log(item);

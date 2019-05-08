@@ -104,6 +104,7 @@ console.log(Object.keys(spaceJam.toonSquad).toString());
 console.log(Object.values(spaceJam));
 console.log(Object.values(spaceJam.toonSquad));
 
+
 let garden= {
     vegetable: 'zucchini',
     flower: 'sun flower',

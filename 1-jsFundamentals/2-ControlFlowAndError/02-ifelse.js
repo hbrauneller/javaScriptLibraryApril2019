@@ -8,6 +8,8 @@ if (weather < 70){
 }
 
 //you can blend complex conditionals and if-else statements based upon your need
+
+
 if (weather > 70 && typeof weather ==='number'){
     console.log('This weather is amazing!');
 } else {

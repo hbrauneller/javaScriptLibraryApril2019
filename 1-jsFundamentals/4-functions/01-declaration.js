@@ -39,3 +39,15 @@ function iteratorFunc(inputArr){
 }
 iteratorFunc(arr);
 iteratorFunc(arr2);
+
+let object = {
+    name: 'Batman', 
+    age: 42, 
+    isVillain: false
+  };
+  function objectChecker(object){}
+  console.log(Object.keys(object));
+  console.log(Object.values(object));
+  console.log(Object.keys(object), Object.values(object));
+  
+
